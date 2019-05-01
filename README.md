@@ -2,7 +2,7 @@
 
 ## About
 
-The fifth assignment of the master's level course "BST 260 - Data Science I" at the Harvard T.H. Chan School of Public Health, taught by Dr. Heather Mattie.
+The fifth assignment of the master's level course "BST 260 - Data Science I" at the Harvard T.H. Chan School of Public Health, taught by Dr. Heather Mattie in the Fall of 2018.
 
 ## Purpose
 
