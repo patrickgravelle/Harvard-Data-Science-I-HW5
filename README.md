@@ -1,4 +1,4 @@
-# Harvard-Data-Science-I-HW5
+# Harvard Data Science I HW5
 
 ## About
 
